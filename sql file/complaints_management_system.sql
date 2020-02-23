@@ -159,7 +159,7 @@ CREATE TABLE `staff` (
 
 INSERT INTO `staff` (`id`, `username`, `email`, `password`, `department_id`, `status`) VALUES
 (3, 'staff', 'staff@gmail.com', '$2y$10$o36aghOA/HlLO3rYMvRCbuho8tCsQ1XBtJXWiUz91WQ/r5iOvPn2a', 3, 1),
-(4, 'Dr. Massa Dossa', 'dosa@gmail.com', '$2y$10$NTDxlXzATDcJ02V/gVLUPOiKE0S68jDWfUzkduaa/W4c2VZfYHyTO', 4, 1);
+(4, 'Dr. James Smith', 'smith@gmail.com', '$2y$10$NTDxlXzATDcJ02V/gVLUPOiKE0S68jDWfUzkduaa/W4c2VZfYHyTO', 4, 1);
 
 -- --------------------------------------------------------
 
@@ -187,7 +187,7 @@ INSERT INTO `tblcomplaints` (`complaintNumber`, `userId`, `department`, `complai
 (25, 7, 5, 'General Query', 'no network connection every afternoon', '', '2018-09-23 05:07:39', NULL, '2020-02-07 22:47:49'),
 (27, 7, 5, 'General Query', 'i need PHP books for advance web development', '', '2018-10-28 02:24:51', NULL, '2020-02-07 22:48:05'),
 (49, 7, 3, 'General Query', 'when a we going  receive our 2 Semester result ?', '', '2018-10-30 08:20:33', 'closed', '2018-10-30 08:42:02'),
-(50, 7, 4, 'General Query', 'in object oriented programming are we going to study java or C# program ? ', '', '2018-10-30 08:37:49', 'closed', '2020-02-07 22:48:29')
+(50, 7, 4, 'General Query', 'in object oriented programming are we going to study java or C# program ? ', '', '2018-10-30 08:37:49', 'closed', '2020-02-07 22:48:29');
 
 -- --------------------------------------------------------
 
