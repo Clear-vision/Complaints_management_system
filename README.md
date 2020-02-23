@@ -11,7 +11,7 @@ Open phpmyadmin
 
 Create Database complaints_management_system
 Import database complaints_management_system.sql(file available inside the pacakege)
-Open Your browser put inside browser “http://localhost/complaints_management_system/”
+Open Your browser put inside browser “localhost/complaints_management_system/”
  Login details for student
 
 registration number : UPA/DCS/17/92885
