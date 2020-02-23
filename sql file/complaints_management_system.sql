@@ -184,16 +184,10 @@ CREATE TABLE `tblcomplaints` (
 --
 
 INSERT INTO `tblcomplaints` (`complaintNumber`, `userId`, `department`, `complaintType`, `complaintDetails`, `complaintFile`, `regDate`, `status`, `lastUpdationDate`) VALUES
-(22, 7, 3, ' Complaint', 'overtime working is  unacceptable', '', '2018-09-23 02:24:36', 'in process', '2020-02-07 22:47:29'),
-(23, 7, 3, ' Complaint', 'i need a good working environment', '', '2018-09-23 04:19:48', NULL, '2020-02-07 22:47:36'),
-(24, 7, 3, ' Complaint', 'i need new working materials', '', '2018-09-23 04:23:28', 'in process', '2020-02-07 22:47:42'),
 (25, 7, 5, 'General Query', 'no network connection every afternoon', '', '2018-09-23 05:07:39', NULL, '2020-02-07 22:47:49'),
-(26, 7, 4, ' Complaint', 'i need my money back', '', '2018-10-08 05:33:21', 'closed', '2020-02-07 22:47:54'),
 (27, 7, 5, 'General Query', 'i need PHP books for advance web development', '', '2018-10-28 02:24:51', NULL, '2020-02-07 22:48:05'),
-(48, 7, 3, 'General Query', 'do we real need to learn oracle database at a dipl... 	', '', '2018-10-28 03:58:18', 'closed', '2020-02-07 22:48:20'),
 (49, 7, 3, 'General Query', 'when a we going  receive our 2 Semester result ?', '', '2018-10-30 08:20:33', 'closed', '2018-10-30 08:42:02'),
-(50, 7, 4, 'General Query', 'in object oriented programming are we going to study java or C# program ? ', '', '2018-10-30 08:37:49', 'closed', '2020-02-07 22:48:29'),
-(51, 8, 3, 'Complaint', 'lecturer cut our marks in test for no reason', '', '2018-10-31 09:01:23', 'closed', '2020-02-07 22:48:45');
+(50, 7, 4, 'General Query', 'in object oriented programming are we going to study java or C# program ? ', '', '2018-10-30 08:37:49', 'closed', '2020-02-07 22:48:29')
 
 -- --------------------------------------------------------
 
